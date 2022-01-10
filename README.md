@@ -1,2 +1,24 @@
-# movies
-Movie Catalogue using IMDB API. Search by title of the movie or even title of a game. Great on mobile, not so good on desktop. Some images might be missing, since they are provided by the API.
+# movieapp
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
